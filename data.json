@@ -1,0 +1,74 @@
+[
+    {
+        "name": "shravan ",
+        "age": 20,
+        "email": "shravank12@gmail.com",
+        "pin": 1234,
+        "account no": 497111,
+        "balance": 0
+    },
+    {
+        "name": "abhay",
+        "age": 20,
+        "email": "abhay@1233",
+        "pin": 6536,
+        "account no": "9u2^1",
+        "balance": 0
+    },
+    {
+        "name": "kuku",
+        "age": 22,
+        "email": "kuku@gmail.com",
+        "pin": 4565,
+        "account no": "C40^4",
+        "balance": 0
+    },
+    {
+        "name": "naman sharma",
+        "age": 25,
+        "email": "naman@1234",
+        "pin": 4620,
+        "account no": "87@i2",
+        "balance": 1152
+    },
+    {
+        "name": "shravan k",
+        "age": 21,
+        "email": "shravankhare@123gmail.com",
+        "pin": 7415,
+        "account_no": "!40q6",
+        "balance": 0
+    },
+    {
+        "name": "somya ",
+        "age": 21,
+        "email": "somya@12344",
+        "pin": 2315,
+        "account_no": "29$4W",
+        "balance": 923
+    },
+    {
+        "name": "Ritik sharma",
+        "age": 20,
+        "email": "ritik@123",
+        "pin": 4620,
+        "account_no": " 919#b",
+        "balance": 1500
+    },
+    {
+        "name": "kamini khare ",
+        "age": 52,
+        "email": "kaminikhare@132",
+        "pin": 2004,
+        "account_no": "%362S",
+        "balance": 8701
+    },
+    {
+        "name": "umang tirang",
+        "age": 21,
+        "email": "oct214@gmail.com",
+        "pin": 1234,
+        "account_no": "!79g2",
+        "balance": 0
+    }
+]
